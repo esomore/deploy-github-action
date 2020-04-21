@@ -1,4 +1,4 @@
-name: 'build and push to dockerhub and initiate deploment'
+name: 'build and push to dockerhub and initiate deployment'
 description: 'Build docker image, push it to dockerhub and initiate deployment'
 inputs:
   image-name:
